@@ -3,7 +3,7 @@
 
 
 ## 💫 About Me:
-- 🎨 Designer turned frontend developer, dedicated to creating user-friendly interfaces.
+- 🎨 Creative frontend developer, driven to design user-friendly interfaces
 - 🚀 Committed to daily self-improvement in coding skills.
 - 📖 Avid learner, always exploring new web technologies.
 - 🏋️‍♂️Fitness enthusiast when not coding! <br>
