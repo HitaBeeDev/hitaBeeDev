@@ -4,8 +4,8 @@
 
 ## 💫 About Me:
 - 🎨 Creative frontend developer, driven to design user-friendly interfaces
-- 🚀 Committed to daily self-improvement in coding skills.
-- 📖 Avid learner, always exploring new web technologies.
+- 🚀 Dedicated to constantly improving coding skills for professional growth
+- 📖 Passionate about learning, continuously diving into the latest advancements in web technologies
 - 🏋️‍♂️Fitness enthusiast when not coding! <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitabeedev&label=Profile%20views&color=0e75b6&style=flat" alt="hitabeedev" /> </p>
