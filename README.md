@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anahita</h1> 
-<h4 align="center">Creative self-taught frontend developer, excited about design and progress of technology!</h3>
+<h4 align="center">Experienced frontend developer building fast, accessible, and user-friendly web applications with a focus on performance and usability.</h3>
 
 
 ## 💫 About Me:
