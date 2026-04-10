@@ -72,7 +72,7 @@ Building performant, scalable, and well-structured web applications.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hitaBeeDev&theme=midnight_purple" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hitaBeeDev&theme=midnight_purple" />
 </p>
 
 <p align="center">
